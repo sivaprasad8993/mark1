@@ -1,0 +1,11 @@
+/home/ezetap/Downloads/JAVA CODING/Spring boot/mark1/src/main/java/com/example/mark1/Mark1Application.java
+/home/ezetap/Downloads/JAVA CODING/Spring boot/mark1/src/main/java/com/example/mark1/controller/EmployeeController.java
+/home/ezetap/Downloads/JAVA CODING/Spring boot/mark1/src/main/java/com/example/mark1/dto/EmployeeDto.java
+/home/ezetap/Downloads/JAVA CODING/Spring boot/mark1/src/main/java/com/example/mark1/dto/Output.java
+/home/ezetap/Downloads/JAVA CODING/Spring boot/mark1/src/main/java/com/example/mark1/entity/Employee.java
+/home/ezetap/Downloads/JAVA CODING/Spring boot/mark1/src/main/java/com/example/mark1/enums/DepartmentType.java
+/home/ezetap/Downloads/JAVA CODING/Spring boot/mark1/src/main/java/com/example/mark1/exceptions/ExceptionHandler.java
+/home/ezetap/Downloads/JAVA CODING/Spring boot/mark1/src/main/java/com/example/mark1/mapper/EmployeeMapper.java
+/home/ezetap/Downloads/JAVA CODING/Spring boot/mark1/src/main/java/com/example/mark1/repository/EmployeeRepository.java
+/home/ezetap/Downloads/JAVA CODING/Spring boot/mark1/src/main/java/com/example/mark1/service/EmployeeService.java
+/home/ezetap/Downloads/JAVA CODING/Spring boot/mark1/src/main/java/com/example/mark1/service/EmployeeServiceImpl.java
